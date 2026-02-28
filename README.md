@@ -18,5 +18,6 @@ I'm currently learning and working on Full-Stack Dev - AI.<br>"Design and Develo
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jhanshuman41s@oksbi) 
 
-  
+  ## 🍵 Support me on KO-Fi
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S11V3FU2)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
